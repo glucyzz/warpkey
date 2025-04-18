@@ -5,9 +5,9 @@ a simple tool that automatically collects 15 WARP+ Keys once every hour.<br>
 
 
 * Lite Version:
-* [https://raw.githubusercontent.com/ircfspace/warpkey/main/plus/lite](https://github.com/glucyzz/warpkey/raw/refs/heads/main/plus/full)
+* [https://raw.githubusercontent.com/glucyzz/warpkey/plus/lite](https://github.com/glucyzz/warpkey/blob/main/plus/lite)
 * Full Version:
-* [https://raw.githubusercontent.com/ircfspace/warpkey/main/plus/full](https://github.com/glucyzz/warpkey/raw/refs/heads/main/plus/full)
+* [https://raw.githubusercontent.com/glucyzz/warpkey/plus/full](https://github.com/glucyzz/warpkey/blob/main/plus/full)
 
 <hr />
 
